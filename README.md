@@ -1,1 +1,1 @@
-# prom_upstreamservice_release_metrics
+# prom_service_release_metrics
