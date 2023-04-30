@@ -1,1 +1,1 @@
-# prom_service_release_metrics
+# prometheus_service_release_metrics
